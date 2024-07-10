@@ -1,3 +1,7 @@
 Hali Gali
+<<<<<<< HEAD
 paratruper
 bilo super
+=======
+Paratrooper
+>>>>>>> 001ab041735e0ad19f125f9f373184f69a4ad3f8
